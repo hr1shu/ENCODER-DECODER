@@ -3,11 +3,11 @@ import base64
 
 root = Tk()
 
-root.geometry('500x500')
+root.geometry('500x300')
 root.resizable(0,0)
 root.title(" --Message Encode and Decode--")
 
-Label(root, text ='ENCODE DECODE', font = 'arial 20 bold').pack()
+Label(root, text ='ENCODER DECODER', font = 'arial 20 bold').pack()
 
 Label(root, text ='By Hih Secruity Labs', font = 'arial 20 bold').pack(side =BOTTOM)
 
